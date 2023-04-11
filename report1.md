@@ -35,4 +35,4 @@ cat /home/linux/ieng6/cs15lsp23/public/hello.txt
 
 UCSDChange2023
 
- ![Image](Screenshot 2023-04-10 190214.png)
+ ![Image](4.png)
