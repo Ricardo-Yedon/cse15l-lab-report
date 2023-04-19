@@ -38,7 +38,17 @@ ls <directory> where <directory> is /home/linux/ieng6/cs15lsp23/cs15lsp23abc, wh
 cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
 
 cat /home/linux/ieng6/cs15lsp23/public/hello.txt
+Here are the what those codes stand for:
+"cd" which stands for "change directory" and allows you to change your current working directory.
 
-UCSDChange2023
+"ls" which stands for "list" and shows you the contents of your current working directory.
+
+"ls -a"shows you all the files and directories in your current working directory, including hidden files.
+
+To copy the file "hello.txt" from the directory "/home/linux/ieng6/cs15lsp23/public/" to your home directory, you can use the "cp" command followed by the source and destination 
+
+The tilde (~) symbol represents your home directory.
+
+To view the contents of the file "hello.txt", you can use the "cat" command followed by the path to the file
 
  ![Image](4.png)
