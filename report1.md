@@ -38,7 +38,9 @@ ls <directory> where <directory> is /home/linux/ieng6/cs15lsp23/cs15lsp23abc, wh
 cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
 
 cat /home/linux/ieng6/cs15lsp23/public/hello.txt
+
 Here are the what those codes stand for:
+
 "cd" which stands for "change directory" and allows you to change your current working directory.
 
 "ls" which stands for "list" and shows you the contents of your current working directory.
