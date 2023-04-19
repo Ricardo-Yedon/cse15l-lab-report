@@ -53,4 +53,11 @@ The tilde (~) symbol represents your home directory.
 
 To view the contents of the file "hello.txt", you can use the "cat" command followed by the path to the file
 
+Here I am running some of the command on my vscode:
+
  ![Image](4.png)
+ ![Image](5.png)
+ 
+ As you can see, here I first ran "cd" which means change my current working directory with a "~" stands for the home directory. So I first change my working directory to my home directory and print this working directory use the command "pwd". Then I ran "is -a" to  show all the files and directories in your current working directory, including hidden files.
+ 
+ Please try few interesting command on your own! Feel free to reach out if you have any questions, happy coding!
