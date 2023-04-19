@@ -26,11 +26,17 @@ Then just put in this command $ssh+ your class account to loging in, type in the
 
 Here are some command code:
 cd ~
+
 cd
+
 ls -lat
+
 ls -a
+
 ls <directory> where <directory> is /home/linux/ieng6/cs15lsp23/cs15lsp23abc, where the abc is one of the other group members’ username
+
 cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
+
 cat /home/linux/ieng6/cs15lsp23/public/hello.txt
 
 UCSDChange2023
